@@ -1,0 +1,5 @@
+Frontend (React)
+Install Dependencies:
+npx create-react-app todo-app
+cd todo-app
+npm install axios react-dnd react-dnd-html5-backend
