@@ -1,0 +1,4 @@
+Backend (Node.js + Express)
+Install Dependencies:
+npm init -y
+npm install express mongoose body-parser cors
